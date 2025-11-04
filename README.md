@@ -1,1 +1,1 @@
-https://github.com/yandexduck/posmotri-v-okno-ad#
+https://github.com/yandexduck/posmotri-v-okno-ad
